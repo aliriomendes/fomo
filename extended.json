@@ -1,19 +1,19 @@
 {
   "adapools": {
-  "url_png_icon_64x64": "https://meta.fomopools.com/pic_64x64.jpg",
-  "url_png_logo": "https://meta.fomopools.com/pic_400x400.jpg",
-  "location": "Munich, Germany",
-  "social": {
+    "url_png_icon_64x64": "https://meta.fomopools.com/pic_64x64.jpg",
+    "url_png_logo": "https://meta.fomopools.com/pic_400x400.jpg",
+    "location": "Munich, Germany",
+    "social": {
       "twitter_handle": "fomopools",
       "telegram_handle": "",
       "facebook_handle": "",
       "youtube_handle": "",
       "twitch_handle": "",
       "discord_handle": ""
-  },
+    },
     "about": {
-        "me": "My name is Alírio Mendes, I'm a mobile software developer based in Munich, Germany. Originally I'm from Cap Verde Islands, West-Africa, but I have lived in Luxumburg, Portugal and now Germany. I've been an ada hodler and cardano supporter since 2017. If you'd like to support a small pool, please consider deleagting to mine.",
-        "server": "2 vCPUs / 4GB RAM / 80GB Disk"
+      "me": "My name is Alírio Mendes, I'm a mobile software developer based in Munich, Germany. Originally I'm from Cap Verde Islands, West-Africa, but I have lived in Luxumburg, Portugal and now Germany. I've been an ada hodler and cardano supporter since 2017. If you'd like to support a small pool, please consider deleagting to mine.",
+      "server": "2 vCPUs / 4GB RAM / 80GB Disk"
     }
   }
 }
