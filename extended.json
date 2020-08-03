@@ -13,7 +13,7 @@
     },
     "about": {
       "me": "My name is Alírio Mendes, I'm a mobile software developer based in Munich, Germany. Originally I'm from Cap Verde Islands, West-Africa, but I have lived in Luxumburg, Portugal and now Germany. I've been an ada hodler and cardano supporter since 2017. If you'd like to support a small pool, please consider deleagting to mine.",
-      "server": "2 vCPUs / 4GB RAM / 80GB Disk"
+      "server": "For now 2 relays and one producer nodes, each with 2 vCPUs / 4GB RAM / 80GB Disk, very easy setup to upgrade, case needed."
     }
   }
 }
