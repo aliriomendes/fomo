@@ -1,7 +1,7 @@
 {
   "adapools": {
-    "url_png_icon_64x64": "https://meta.fomopools.com/pic_64x64.jpg",
-    "url_png_logo": "https://meta.fomopools.com/pic_400x400.jpg",
+    "url_png_icon_64x64": "https://meta.fomopools.com/pic_64x64.png",
+    "url_png_logo": "https://meta.fomopools.com/pic_400x400.png",
     "location": "Munich, Germany",
     "social": {
       "twitter_handle": "fomopools",
